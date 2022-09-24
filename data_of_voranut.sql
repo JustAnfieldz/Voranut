@@ -29,8 +29,7 @@ INSERT INTO TeamMember VALUES (00008, 30001, "Hot_Head_Nut", "Player");
 INSERT INTO TeamMember VALUES (00009, 30001, "Unbeaten_Nut", "Player");
 INSERT INTO TeamMember VALUES (00010, 30001, "Toxic_Nut", "Player");
 -- Address Table
-INSERT INTO Address VALUES (40000, "TH", "Bangkok", "Bangkok", "Phayathai", "10400",
-"Desc");
+INSERT INTO Address VALUES (40000, "TH", "Bangkok", "Bangkok", "Phayathai", "10400", "Desc");
 -- Organizer Table
 INSERT INTO Organizer VALUES (20000, "Sianut", "0971138686");
 INSERT INTO Organizer VALUES (20001, "NutAKM", "0971138686");
